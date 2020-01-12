@@ -2,11 +2,11 @@
 ![CDNJS](https://img.shields.io/badge/Cash4Clickz-BotZ-red)
 
 # Installation
-'''
+```
 apt update && apt upgrade
 pkg install python
 python now.py
-'''
+```
 > Require fake-useragent
 # Media
 
