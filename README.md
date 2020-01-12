@@ -5,6 +5,7 @@
 ```
 apt update && apt upgrade
 pkg install python
+cd c4cZ
 python now.py
 ```
 > Require fake-useragent
